@@ -142,14 +142,6 @@ const API_SITES = {
         api: 'https://www.feisuzy.com/api.php/provide/vod/',
         name: '飞速资源'
     },
-    guangsu: {
-        api: 'https://api.guangsuapi.com/api.php/provide/vod/',
-        name: '光速资源'
-    },
-    xinlang: {
-        api: 'http://api.xinlangapi.com/xinlangapi.php/provide/vod/',
-        name: '新浪资源'
-    },
     yule: {
         api: 'https://api.ylzy1.com/api.php/provide/vod/',
         name: '鱼乐资源'
