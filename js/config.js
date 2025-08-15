@@ -94,10 +94,6 @@ const API_SITES = {
         api: 'https://api.zuidapi.com/api.php/provide/vod',
         name: '最大资源'
     },
-    yinghua: {
-        api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
-        name: '樱花资源'
-    },
     baidu: {
         api: 'https://api.apibdzy.com/api.php/provide/vod',
         name: '百度云资源'
@@ -114,73 +110,9 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
-    fox: {
-        api: 'https://api.foxzyapi.com/api.php/provide/vod',
-        name: 'FOX资源'
-    },
-    shensu: {
-        api: 'https://api.sszyapi.com/api.php/provide/vod',
-        name: '神速资源'
-    },
-    fanqie: {
-        api: 'http://api.fqzy.cc/api.php/provide/vod',
-        name: '番茄资源'
-    },
-    yinghua: {
-        api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
-        name: '樱花资源'
-    },
-    xiangkan: {
-        api: 'https://m3u8.xiangkanapi.com/api.php/provide/vod',
-        name: '想看资源'
-    },
     shandian: {
         api: 'http://sdzyapi.com/api.php/provide/vod/',
         name: '闪电资源'
-    },
-    feisu: {
-        api: 'https://www.feisuzy.com/api.php/provide/vod/',
-        name: '飞速资源'
-    },
-    yule: {
-        api: 'https://api.ylzy1.com/api.php/provide/vod/',
-        name: '鱼乐资源'
-    },
-    hanju: {
-        api: 'hhttp://www.hanjuzy.com/inc/apijson_vod.php',
-        name: '韩剧资源'
-    },
-    kuaibo: {
-        api: 'http://www.kuaibozy.com/api.php/provide/vod/',
-        name: '快播资源'
-    },
-    kuaibo: {
-        api: 'http://cj.bajiecaiji.com/inc/apijson_vod.php',
-        name: '快播资源'
-    },
-    baidu: {
-        api: 'https://api.apibdzy.com/api.php/provide/vod/',
-        name: '百度资源'
-    },
-    wujin2: {
-        api: 'https://wuzy9.com/api.php/provide/vod/',
-        name: '无尽资源2'
-    },
-    sky: {
-        api: 'https://api.tiankongapi.com/api.php/provide/vod/',
-        name: '天空资源'
-    },
-    leduo: {
-        api: 'http://cj.leduocaiji.com/inc/api.php',
-        name: '乐多资源'
-    },
-    juhe: {
-        api: 'https://ziyuan.juhesys.com/api.php/provide/vod/',
-        name: '聚合资源'
-    },
-    nanguo: {
-        api: 'http://api.nguonphim.tv/api.php/provide/vod/',
-        name: '南国影源'
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
